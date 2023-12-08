@@ -14,6 +14,6 @@
 
 源码在这里：
 
-[Ruby's Adventure源代码](https://github.com/chlorine22/Ruby-s-Adventure-demo-/tree/main/Ruby's Adventure源代码)
+[Rubys Adventure源代码](https://github.com/chlorine22/Ruby-s-Adventure-demo-/tree/main/Ruby's Adventure源代码)
 
 因为实在写了太多bug，所以采用了看完课程，然后修改课程源码+再创作的形式
